@@ -1,0 +1,3 @@
+[submodule "bionic"]
+	path = bionic
+	url = https://github.com/generic-library/bionic.git
